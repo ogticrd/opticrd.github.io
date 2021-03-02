@@ -894,15 +894,14 @@ new Vue({
             },
             {
                 name: "PUERTO PLATA", municity: [
-                    {name: "SAN FELIPE", center: [{name: "CENTRO SANITARIO FRANCISCO GONZÁLEZ HARDY"}]},
-                    {name: "SAN FELIPE", center: [{name: "DPS PUERTO PLATA"}]},
-                    {
-                        name: "SAN FELIPE",
-                        center: [{name: "PARQUE JUAN GARCÍA, SECTOR GREGORIO LUPERÓN, SAN FELIPE DE PUERTO PLATA"}]
-                    },
+                    {name: "SAN FELIPE", center: [
+                        {name: "DPS PUERTO PLATA"},
+                        {name: "CENTRO SANITARIO FRANCISCO GONZÁLEZ HARDY"},
+                        {name: "CPN  SAN MARCOS"},
+                        {name: "PARQUE JUAN GARCÍA, SECTOR GREGORIO LUPERÓN, SAN FELIPE DE PUERTO PLATA"}
+                    ]},
                     {name: "PADRE DE LAS CASAS", center: [{name: "PLAY DEL SECTOR PADRE LAS CASAS"}]},
                     {name: "GUANANICO", center: [{name: "HOSPITAL MUNICIPAL DE GUANANICO"}]},
-                    {name: "SAN FELIPE", center: [{name: "CPN  SAN MARCOS"}]},
                     {name: "VILLA ISABELLA", center: [{name: "HOSPITAL MUNICIPAL DE VILLA ISABELA"}]}
                 ]
             },
