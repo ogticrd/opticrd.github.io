@@ -895,9 +895,9 @@ new Vue({
             {
                 name: "PUERTO PLATA", municity: [
                     {name: "SAN FELIPE", center: [
-                        {name: "CENTRO SANITARIO FRANCISCO GONZÁLEZ HARDY"}
-                        {name: "DPS PUERTO PLATA"}
-                        {name: "PARQUE JUAN GARCÍA, SECTOR GREGORIO LUPERÓN, SAN FELIPE DE PUERTO PLATA"}
+                        {name: "CENTRO SANITARIO FRANCISCO GONZÁLEZ HARDY"},
+                        {name: "DPS PUERTO PLATA"},
+                        {name: "PARQUE JUAN GARCÍA, SECTOR GREGORIO LUPERÓN, SAN FELIPE DE PUERTO PLATA"},
                         {name: "CPN  SAN MARCOS"}
                     ]},
                                    
