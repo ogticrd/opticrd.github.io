@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centros de Vacunación</title>
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="app">
+      <div class="header">
+        <div class="content-header">
+          <div class="logo-vacunate">
+            <img class="img-fluid" src="logo-vacunateRD.png">
+          </div>
+          <h4 class="h4 header-title">Si tú o un familiar tuyo tiene 70 años o más, ubica un centro de vacunación cercano ¡<b>Aquí!</b></h4>
+          <hr class="mx-auto w-25" style="border-top-width: 8px !important; border-top-color: #F32735 !important;">
+        </div>
+      </div>
+      <div class="content">
+        <div class="container">
+          <h3 class="h3 text-center mb-4">Puntos de vacunación</h3>
+          <div class="row">
+
+            <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
+              <div class="row">
+
+                <div class="col-md-6">
+                  <label for="province-selected">Seleccionar provincia</label>
+                  <select v-model="provinceSelected" id="province-selected" class="form-control" @change="provinceChange">
+                    <option v-for="province in provinces" v-bind:value="province.municity">
+                      {{ province.name }}
+                    </option>
+                  </select>
+                </div>
+                <div class="col-md-6">
+                  <label for="municity-selected">Seleccionar municipio</label>
+                  <select v-model="municitySelected" id="municity-selected" class="form-control">
+                    <option v-for="municity in provinceSelected" v-bind:value="municity.center">
+                      {{ municity.name }}
+                    </option>
+                  </select>
+                </div>
+              </div>
+              <ul class="row mt-5">
+                <li v-for="sector in municitySelected" class="col-md-6"><span class="pr-3 mb-3 d-block">{{ sector.name }}</span></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+    <script src="app.js"></script>
+</body>
+</html>
