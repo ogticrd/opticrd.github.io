@@ -98,7 +98,7 @@ new Vue({
                             {name: "UASD - CONSULTORIO TEJADA FLORENTINO"}
                         ]
                     },
-                    {name: "ENS. LA JULIA (DAS V)", center: [{name: "PONTIFICIA UNIVERSIDAD MADRE Y MAESTRA  (PUCMM)"}]},
+                    {name: "ENS. LA JULIA (DAS V)", center: [{name: "PONTIFICIA UNIVERSIDAD CATOLICA MADRE Y MAESTRA  (PUCMM)"}]},
                     {name: "SAN CARLOS (DAS V)", center: [{name: "CLUB SAN CARLOS"}]},
                     {name: "URB. REAL (DAS V)", center: [{name: "CLUB PLAZA INDEPENDENCIA"}]},
                     {
