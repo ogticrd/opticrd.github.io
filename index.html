@@ -10,7 +10,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div id="app">
+    <div id="app" class="container">
       <div class="header">
         <div class="content-header">
           <div class="logo-vacunate">
@@ -28,18 +28,18 @@
             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
               <div class="row">
 
-                <div class="col-md-6">
+                <div class="col-md-6 mb-3">
                   <label for="province-selected">Seleccionar provincia</label>
                   <select v-model="provinceSelected" id="province-selected" class="form-control" @change="provinceChange">
-                    <option v-for="province in provinces" v-bind:value="province.municity">
+                    <option v-for="province in provinces" :value="province.municity">
                       {{ province.name }}
                     </option>
                   </select>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6 mb-3">
                   <label for="municity-selected">Seleccionar municipio</label>
                   <select v-model="municitySelected" id="municity-selected" class="form-control">
-                    <option v-for="municity in provinceSelected" v-bind:value="municity.center">
+                    <option v-for="municity in provinceSelected" :value="municity.center">
                       {{ municity.name }}
                     </option>
                   </select>

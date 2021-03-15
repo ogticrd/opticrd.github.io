@@ -4,6 +4,15 @@
  * Date: 01/march/2021
  * https://presidencia.gob.do
  */
+
+/**
+ * Updated by: Max Sierra
+ * Intellisys
+ * Date: 12/march/2021
+ * info@intellisys.com.do
+ * https://intellisysdcorp.com
+ */
+
 new Vue({
     el: '#app',
     data: {
