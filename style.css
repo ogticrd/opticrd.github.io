@@ -4,14 +4,14 @@
   margin: 30px auto 30px;
 }
 .header .content-header {
-  background-color: #F5F9F9;
+  background-color: #f5f9f9;
   color: #212529;
   padding: 30px 0;
   text-align: center;
 }
 .header .header-title {
   color: #003876;
-  font-size: 2.5rem;
+  font-size: 2rem;
   max-width: 80%;
   margin: 0 auto 10px auto;
 }
@@ -21,12 +21,17 @@
   padding: 30px 0;
 }
 
-
 @media (min-width: 990px) {
   .header .header-title {
     max-width: 50%;
   }
   .logo-vacunate {
     max-width: 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  .header .header-title {
+    font-size: 1.5rem;
   }
 }
