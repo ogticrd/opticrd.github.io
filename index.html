@@ -16,7 +16,9 @@
           <div class="logo-vacunate">
             <img class="img-fluid" src="logo-vacunateRD.png">
           </div>
-          <h4 class="h4 header-title">Si tú o un familiar tuyo tiene 70 años o más, ubica un centro de vacunación cercano ¡<b>Aquí!</b></h4>
+          <h4 class="h4 header-title">En esta etapa, desde el 24 al 28 de marzo, estamos atendiendo solo a personas que se aplicarán su segunda dosis.</h4>
+          <h4 class="h5 header-subtitle">En el día de hoy {{ new Date().getUTCDate() }} de marzo, están operando los centros de vacunación citados a continuación para aplicación de segunda dosis:</h4>
+          
           <hr class="mx-auto w-25" style="border-top-width: 8px !important; border-top-color: #F32735 !important;">
         </div>
       </div>
@@ -26,27 +28,18 @@
           <div class="row">
 
             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
-              <div class="row">
-
-                <div class="col-md-6 mb-3">
+              <div class="row justify-content-center">
+                <div class="col-md-8 mb-3">
                   <label for="province-selected">Seleccionar provincia</label>
                   <select v-model="provinceSelected" id="province-selected" class="form-control" @change="provinceChange">
-                    <option v-for="province in provinces" :value="province.municity">
+                    <option v-for="province in provinces" :value="province.centers">
                       {{ province.name }}
-                    </option>
-                  </select>
-                </div>
-                <div class="col-md-6 mb-3">
-                  <label for="municity-selected">Seleccionar municipio</label>
-                  <select v-model="municitySelected" id="municity-selected" class="form-control">
-                    <option v-for="municity in provinceSelected" :value="municity.center">
-                      {{ municity.name }}
                     </option>
                   </select>
                 </div>
               </div>
               <ul class="row mt-5">
-                <li v-for="sector in municitySelected" class="col-md-6"><span class="pr-3 mb-3 d-block">{{ sector.name }}</span></li>
+                <li v-for="center in provinceSelected" class="col-md-6"><span class="pr-3 mb-3 d-block">{{ center.name }}</span></li>
               </ul>
             </div>
           </div>
@@ -54,6 +47,7 @@
       </div>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/vue@2.6.12"></script>
+    <script src="centros_2.js"></script>
     <script src="app.js"></script>
 </body>
 </html>
