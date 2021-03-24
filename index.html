@@ -30,7 +30,7 @@
             <div class="col-md-10 offset-md-1 col-lg-8 offset-lg-2">
               <div class="row justify-content-center">
                 <div class="col-md-8 mb-3">
-                  <label for="province-selected">Seleccionar provincia</label>
+                  <label for="province-selected">Seleccionar provincia o municipio</label>
                   <select v-model="provinceSelected" id="province-selected" class="form-control" @change="provinceChange">
                     <option v-for="province in provinces" :value="province.centers">
                       {{ province.name }}

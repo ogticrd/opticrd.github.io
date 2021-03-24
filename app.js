@@ -14,15 +14,15 @@
  */
 
 new Vue({
-    el: '#app',
-    data: {
-        provinceSelected: [],
-        municitySelected: [],
-        provinces: [... centros2],
+  el: "#app",
+  data: {
+    provinceSelected: [],
+    municitySelected: [],
+    provinces: [...centros2],
+  },
+  methods: {
+    provinceChange: function (e) {
+      this.municitySelected = [];
     },
-    methods: {
-        provinceChange: function (e) {
-            this.municitySelected = [];
-        }
-    }
+  },
 });
