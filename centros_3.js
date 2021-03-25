@@ -16,7 +16,7 @@ const centros3 = [
       { name: "DIRECCIÓN ÁREA DE SALUD V" },
       { name: "HOGAR DE ANCIANOS SAN FRANCISCO DE ASIS" },
       { name: "CENTRO MÉDICO DEL CARIBE" },
-      { name: "CENTRO MÉDICO DR. RICHARDSPM CRUZ" },
+      { name: "CENTRO MÉDICO DR. RICHARDSON CRUZ" },
       { name: "CENTRO MÉDICO ELOHIM" },
       { name: "CENTRO MÉDICO GAZCUE" },
       { name: "CENTRO MÉDICO MODERNO" },
