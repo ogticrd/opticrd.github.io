@@ -18,7 +18,7 @@ new Vue({
   data: {
     provinceSelected: [],
     municitySelected: [],
-    provinces: [...centros],
+    provinces: [...centros4],
   },
   methods: {
     provinceChange: function (e) {
