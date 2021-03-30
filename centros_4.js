@@ -31,7 +31,8 @@ const centros4 = [
       { name: "HOSPITAL GENERAL DE LA POLICÍA" },
       { name: "HOSPITAL INFANTIL DR.ROBERT REID CABRAL" },
       { name: "PUCMM" },
-      { name: "SUPERMERCADO NACIONAL 27 DE FEBRERO" }
+      { name: "SUPERMERCADO NACIONAL 27 DE FEBRERO" },
+      { name: "MULTICENTRO LA SIRENA CHURCHILL" }
     ],
   },
   {
