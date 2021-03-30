@@ -30,7 +30,8 @@ const centros4 = [
       { name: "GINECOLOGÍA Y OBSTETRICIA" },
       { name: "HOSPITAL GENERAL DE LA POLICÍA" },
       { name: "HOSPITAL INFANTIL DR.ROBERT REID CABRAL" },
-      { name: "PUCMM" }
+      { name: "PUCMM" },
+      { name: "SUPERMERCADO NACIONAL 27 DE FEBRERO" }
     ],
   },
   {
