@@ -739,6 +739,25 @@ const centros5 = [
       { name: "HOSPITAL RAMON ADRIANO VILLALOBOS" },
       { name: "DIRECCION PROVINCIAL DE SALUD DAJABON" },
       { name: "HOSPITAL RAMON MATÍAS MELLA" },
+      { name: "Cancha Cub Cultural Liberacion Juvenil" },
+      { name: "Centro de Clavellina" },
+      { name: "Centro de Madre Amor y Paz" },
+      { name: "Centro de Madre Barrio NORTE" },
+      { name: "Centro de Madre Cayuco" },
+      { name: "Centro de Madre Cristo Resucitado" },
+      { name: "Centro de Madre Hermana Mirabal" },
+      { name: "Centro de Madre La Altagracia" },
+      { name: "Centro de Madre La Esperanza" },
+      { name: "Centro de Madre Plaza Beller" },
+      { name: "Centro de Madre Sagrado Corazon de Jesus" },
+      { name: "Centro de Madre Villa Alegre" },
+      { name: "Centro de Madres Cristo Resucitado" },
+      { name: "Centro Madre Unión y Paz" },
+      { name: "Club Rafael Socias" },
+      { name: "La Rikillona" },
+      { name: "La Rikillona" },
+      { name: "LOYOLA" },
+      { name: "Poli Deportivo Ambrosio Estévez" },
     ]
   },
   {
@@ -1924,4 +1943,134 @@ const centros5 = [
       { name: "CPN LA GUAMA" },
     ],
   },
+  {
+    name: "Comendador",
+    centers: [
+      { name: "CPN Macasía" },
+      { name: "CPN La Gallera" },
+      { name: "CPN Sabana Larga" },
+      { name: "CPN Rinconcito" },
+      { name: "CPN Guayabo" },
+      { name: "CPN Pinzon" },
+      { name: "CPN Las Delicias" },
+      { name: "CPN Potrozo" },
+      { name: "CPN Hato Viejo" },
+      { name: "Techado de Basket" },
+      { name: "CTC" }
+    ]
+  },
+  {
+    name: "Banica",
+    centers: [
+      { name: "CPN Sabana Cruz" },
+      { name: "CPN Higuierito" },
+      { name: "Polideportivo" },
+      { name: "CPN de Sabana Mula" }
+    ]
+  },
+  {
+    name: "Hondo Valle",
+    centers: [
+      { name: "CPN Rancho La Guardia" },
+      { name: "Polideportivo de Hondo Valle" }
+    ]
+  },
+  {
+    name: "El llano",
+    centers: [
+      { name: "CPN el Llano" },
+      { name: "CPN Guanito" },
+      { name: "Polideportivo del Llano" },
+      { name: "CPN Rosa La Piedra" }
+    ]
+  },
+  {
+    name: "Pedro Santana",
+    centers: [
+      { name: "CTC Pedro Santana" },
+      { name: "CPN Las Palmas" },
+      { name: "CPN Pedro Santana" }
+    ]
+  },
+  {
+    name: "Juan Santiago",
+    centers: [
+      { name: "CPN Juan Santiago" }
+    ]
+  },
+  {
+    name: "El Pino",
+    centers: [
+      { name: "Centro Comunal Manuel Bueno" },
+      { name: "Centro Tecnologico" },
+      { name: "Club Los Compos" },
+      { name: "Club Nuevo Horizonte El Pino" },
+      { name: "Unap El Pino" }
+    ]
+  },
+  {
+    name: "Loma de Cabrera",
+    centers: [
+      { name: "Casa de la Cultura" },
+      { name: "Centro comunal Capotillo" },
+      { name: "Centro Comunal El Cajuil" },
+      { name: "Centro Comunal el Cruce" },
+      { name: "Centro Comunal Hipolito Billini" },
+      { name: "Centro comunal La Peñita" },
+      { name: "Centro Comunal Santiago de la Cruz" },
+      { name: "Centro de Madre Unidas para Luchar" },
+      { name: "Iglesia Demofilo Cruz" },
+      { name: "Poli Deportivo La Ceiba" }
+    ]
+  },
+  {
+    name: "Partido",
+    centers: [
+      { name: "ADEPA" },
+      { name: "Centro Comunal de Aminilla" },
+      { name: "Centro Comunal La Culata" },
+      { name: "Centro Comunal Sangre Linda" },
+      { name: "Centro Comunal Vaca Gorda" },
+      { name: "Centro de Madre Los Indios" },
+      { name: "Club El Coral" },
+      { name: "Club Tabacuey" },
+      { name: "El Multi Uso Partido" },
+      { name: "Multi Uso de la Esuela Antonio Medina" }
+    ]
+  },
+  {
+    name: "Restauracion",
+    centers: [
+      { name: "Centro Comunal Las Rosas" },
+      { name: "Centro Comunal Los Cerezos" },
+      { name: "Centro Comunal Trinitaria" },
+      { name: "Centro de Madre Mariano Cestero" },
+      { name: "Centro de Madres Amantes del Progreso" },
+      { name: "Centro Tecnologico Comunitario" },
+      { name: "Club Fronterizo" }
+    ]
+  },
+  {
+    name: "Sabaneta",
+    centers: [
+      { name: "Ajesaro" },
+      { name: "Polideportivo" },
+      { name: "Cancha Germán Castro" },
+      { name: "Dirección de Salud Santiago Rodríguez" }
+    ]
+  },
+  {
+    name: "Monción",
+    centers: [
+      { name: "Ayuntamiento Monción" },
+      { name: "Ayuntamiento Sabaneta" }
+    ]
+  },
+  {
+    name: "Villa Los Almácigos",
+    centers: [
+      { name: "Ayuntamiento Almácigos" },
+      { name: "Escuela Dr. Carlos González" }
+    ]
+  }
 ].sort((a, b) => (a.name < b.name ? -1 : 1));
