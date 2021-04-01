@@ -39,17 +39,14 @@ const centros5 = [
       { name: "CLÍNICA ABREU" },
       { name: "CLÍNICA DOMINICO CUBANA" },
       { name: "CLÍNICA INDEPENDENCIA" },
-      { name: "COLEGIO MÉDICO DOMINICANO" },
       { name: "DISPENSARIO MÉDICO TEJADA Y FLORENTINO" },
       { name: "GINECOLOGÍA Y OBSTETRICIA" },
       { name: "HOSPITAL GENERAL DE LA POLICÍA" },
       { name: "HOSPITAL INFANTIL DR.ROBERT REID CABRAL" },
-      { name: "PUCMM" },
       { name: "SUPERMERCADO NACIONAL 27 DE FEBRERO" },
       { name: "MULTICENTRO LA SIRENA CHURCHILL" },
       { name: "Club San Carlos" },
       { name: "Plaza Lama 27 de Febrero" },
-      { name: "Centro Medico Escaño" },
       { name: "UNIBE" },
       { name: "Agora Mall" },
     ],
@@ -58,14 +55,10 @@ const centros5 = [
     name: "DISTRITO NACIONAL (DAS-VI)",
     centers: [
       { name: "DIRECCIÓN ÁREA DE SALUD VI" },
-      { name: "CEDIMAT" },
       { name: "CENTRO MÉDICO VISTA DEL JARDIN" },
-      { name: "DIRECCIÓN GENERAL DE EPIDEMIOLOGÍA,(DIGEPI)" },
-      { name: "HOSPITAL GENERAL PLAZA DE LA SALUD" },
       { name: "HOSPITAL MATERNO INFANTIL SANTO SOCORRO" },
       { name: "HOSPITAL MUNICIPAL JACINTO IGNACIO MAÑÓN" },
       { name: "HOSPITAL SALVADOR B. GAUTIER" },
-      { name: "HOSPITAL INSTITUTO DE DIABETES (INDEN)" },
       { name: "UNIVERSIDAD PEDRO HENRIQUEZ UREÑA (UNPHU)" },
     ],
   },
@@ -97,7 +90,6 @@ const centros5 = [
       { name: "POLICLÍNICA ZONE - E" },
       { name: "CPNA EL DIQUE (2DA DOSIS)" },
       { name: "AREA II DE SALUD (2DA DOSIS)" },
-      { name: "COSALUP" },
       { name: "CPNA VIETNAM" },
       { name: "DISPENSARIO MEDICO SANTA MARIA REINA" },
       { name: "CLUB EL ROSAL" },
@@ -158,13 +150,11 @@ const centros5 = [
     name: "SANTO DOMINGO OESTE (DAS-VII)",
     centers: [
       { name: "DR.MARCELINO VELEZ SANTANA" },
-      { name: "HOSPITAL MUNICIPAL ENGOMBE" },
       { name: "SUB CENTRO DR.INOCENCIO DIAZ PIÑEYRO" },
       { name: "CPN hato nuevo" },
       { name: "CPN Comunal el café /INFOTEP" },
       { name: "CPN pan y vino" },
       { name: "CPN comunal las palmas" },
-      { name: "Zona F" },
       { name: "CPNA Las Caobas" },
       { name: "ONG La Hora de Dios" },
       { name: "Parroquia Espiritu Santo" },
@@ -194,7 +184,6 @@ const centros5 = [
       { name: "CLUB DEPORTIVO COLIBRI-PALAVE" },
       { name: "ESCUELA ROSARIO EVANGELINA SOLANO" },
       { name: "CENTRO CRISTIANO SOCIEDAD LUCAS" },
-      { name: "UTESA, SEDE AV ISABEL AGUIAR" },
     ],
   },
   {
@@ -213,10 +202,8 @@ const centros5 = [
     centers: [
       { name: "CENTRO MÉDICO DR.MATEO ROSARIO" },
       { name: "HOSPITAL MUNICIPAL DE DR. PEDRO HEREDIA ROJAS" },
-      { name: "HOSPITAL MUNICIPAL DE YAMASA" },
       { name: "HOSPITAL PROVINCIAL DE MONTE PLATE DR.ANGEL CONTRERAS" },
       { name: "DIRECCIÓN PROVINCIAL DE SALUD MONTE PLATA" },
-      { name: "HOSPITAL SANTO CRISTO DE LOS MILAGROS" },
       { name: "Multiusos Monte Plata (de 68 años o más)" },
     ],
   },
@@ -328,8 +315,6 @@ const centros5 = [
       { name: "PROFAMILIA Y CENTRO DIAGNÓSTICO FAMILIAR DR.TERRERO" },
       { name: "PUESTO FIJO DE LA DAS II" },
       { name: "DIRECCIÓN PROVINCIAL DE SALUD (DPS - II)" },
-      { name: "HOSPITAL MUNICIAL YRENE FERNÁNDEZ DE JANICO" },
-      { name: "Consultorio Adventista " },
       { name: "Club Baracoa " },
       { name: "Club La Otra Banda " },
       { name: "UASD Recinto Stgo " },
@@ -337,11 +322,9 @@ const centros5 = [
       { name: "CPN BN la Herradura" },
       { name: "CPN Mamatingo" },
       { name: "CPN Las Charcas" },
-      { name: "CPN Bella Vista" },
       { name: "CPN Yaguita de Pastor " },
       { name: "CPN Buen Pastor" },
       { name: "CPN La Canela " },
-      { name: "Club Hato del Yaque  Hato del Yaque" },
     ],
   },
   {
@@ -357,32 +340,24 @@ const centros5 = [
       { name: "CENTRO MÉDICO CIBAO - UTESA" },
       { name: "CENTRO UROLÓGICO DEL CIBAO" },
       { name: "CLÍNICA DOCTOR EDUARDO MARTÍNEZ" },
-      { name: "CLÍNICA COROMINAS, S.A." },
       { name: "CLÍNICA DR.BONILLA" },
       { name: "CLÍNICA GENARO VALDEZ UTESA" },
-      { name: "CLÍNICA UNIÓN MÉDICA DEL NORTE" },
       { name: "CONSULTORIO AEROPUERTO INTERNACIONAL SANTIAGO" },
-      { name: "DISPENSARIO MÉDICO UNIVERSIDAD PUCMM" },
       { name: "DISPENSARIO MÉDICO UAPA" },
       { name: "DIRECCIÓN PROVINCIAL DE SALUD (DPS - III)" },
       { name: "FUNDACIÓN SOLIDARIA DEL DIVINO NIÑO DE JESUS INC." },
-      { name: "HOSPITAL DE ESPECIALIDADES MÉDICAS MATERNO INFANTIL (HEMMI)" },
       { name: "HOGAR DE ANCIANOS ELISEO ÁLVAREZ" },
       { name: "HOGAR DE ANCIANOS LAS TRES HERMANAS" },
       { name: "CENTRO MÉDICO PREVENTIVO SALUD Y VIDA (CENSAVID)" },
-      { name: "HOSPITAL MUNICIPAL BAITOA" },
       { name: "HOSPITAL MUNICIPAL DE TAMBORIL DR.JORGE ARMANDO 'ICO'" },
       { name: "HOSPITAL JORGE BLANCO" },
       { name: "HOSPITAL JOSÉ MARÍA CABRAL Y BÁEZ" },
       { name: "HOSPITAL JUAN 23 MONTE ADENTRO" },
-      { name: "HOSPITAL METROPOLITANO DE SANTIAGO (HOMS)" },
-      { name: "HOSPITAL MUNICIPAL LICEY AL MEDIO" },
       { name: "HOSPITAL OFTALMOLÓGICO" },
       { name: "INSTITUTO DERMATOLÓGICO Y CIRUJÍA DEL PIEL DR.HUMBERTO BOGAERT DÍAZ" },
       { name: "INSTITUTO ONCOLÓGICO REGIONAL DEL CIBAO" },
       { name: "CENTRO MÉDICO LOS VETERANOS" },
       { name: "CENTRO MÉDICO NEOCLINIC" },
-      { name: "HOSPITAL SEMMA" },
       { name: "HOSPITAL SAN VICENTE DE PAUL" },
       { name: "CPN La Ceibita" },
       { name: "Club Villa Olga" },
@@ -428,7 +403,6 @@ const centros5 = [
       { name: "HOSPITAL DR. RAFAEL CANTISANO ARIAS" },
       { name: "HOSPITAL GREGORIO LUPERÓN" },
       { name: "HOSPITAL MUNICIPAL ALTAMIRA" },
-      { name: "HOSPITAL MUNICIPAL DE IMBERT" },
       { name: "HOSPITAL MUNICIPAL DE VILLA ISABELA" },
       { name: "HOSPITAL PABLO MORROBEL JIMÉNEZ" },
       { name: "HOSPITAL PROVINCIAL DOCENTE RICARDO LIMARDO" },
@@ -527,7 +501,6 @@ const centros5 = [
     name: "SAMANÁ",
     centers: [
       { name: "CLÍNICA ESPECIALIZADA INTERNACIONAL LAS TERRENAS" },
-      { name: "HOSPITAL DR. ALBERTO GAUTREAUX EN SÁNCHEZ" },
       { name: "HOSPITAL LIC. PABLO PAULINO, LAS TERRENAS" },
       { name: "HOSPITAL NATIVIDAD ALCALÁ EL LIMÓN" },
       { name: "DIRECIÓN PROVINCIAL DE SALUD SAMANÁ" },
@@ -543,7 +516,6 @@ const centros5 = [
       { name: "CENTRO MÉDICO MATERNO INFANTIL DR. ROMÁN BRACHE" },
       { name: "HOSPITAL DR. ROMAN BAUTISTA BRACHE" },
       { name: "DIRECIÓN PROVINCIAL DE SALUD HERMANAS MIRABAL" },
-      { name: "HOSPITAL MUNICIPAL VILLA TAPIA" },
     ]
   },
   {
@@ -556,7 +528,6 @@ const centros5 = [
       { name: "DIRECCIÓN PROVINCIAL DE SALUD INDEPENDENCIA" },
       { name: "HOSPITAL PROVINCIAL GENERAL MELENCIANO" },
       { name: "HOSPITAL DR. JOSÉ PÉREZ" },
-      { name: "HOSPITAL LA DESCUBIERTA" },
       { name: "HOSPITAL LOS PINOS DEL EDEN" },
       { name: "HOSPITAL MUNICIPAL DE JIMANÍ" },
       { name: "HOSPITAL MUNICIPAL DUVERGÉ" },
@@ -670,7 +641,6 @@ const centros5 = [
       { name: "HOSPITAL BANICA" },
       { name: "HOSPITAL MUNICIPAL HONDO VALLE" },
       { name: "DIRECCIÓN PROVINCIAL DE SALUD EL ELÍAS PIÑA" },
-      { name: "HOSPITAL ROSA DUARTE" },
     ]
   },
   {
@@ -734,7 +704,6 @@ const centros5 = [
     centers: [
       { name: "CLÍNICA ROSA BENITA" },
       { name: "HOGAR DE ANCIANOS EN VILLA ALEGRE" },
-      { name: "HOSPITAL MUNICIPAL DE PARTIDO" },
       { name: "HOSPITAL MUNICIPAL RESTAURACIÓN" },
       { name: "HOSPITAL RAMON ADRIANO VILLALOBOS" },
       { name: "DIRECCION PROVINCIAL DE SALUD DAJABON" },
@@ -805,20 +774,12 @@ const centros5 = [
       { name: "CENTRO MEDICO AMK DENTAL" },
       { name: "CENTRO DE ESPECIALIDADES MEDICAS" },
       { name: "CENTRO DE EUDIRIS SOTO" },
-      { name: "CENTRO DENTAL DRA. ELVIRA THEN" },
       { name: "CENTRO DIAGNOSTICO COTUI" },
       { name: "CENTRO DIAGNOSTICO DE FANTINO" },
       { name: "CENTRO DIAGNOSTICO VILLA LA MATA" },
       { name: "CENTRO MEDICO NUÑEZ HERNANDEZ" },
-      { name: "CENTRO ODONTOLOGICO DISLA NUÑEZ" },
-      { name: "CLINICA CECIESMED" },
-      { name: "CLINICA DR. JACOBO" },
-      { name: "CLINICA DR. PAREDES" },
       { name: "CLINICA GUADALUPE" },
-      { name: "CLINICA LAS MERCEDES" },
       { name: "CLINICA NUESTRA SRA. DEL PILAR" },
-      { name: "CONSULTORIO INMACULADA CONCEPCION" },
-      { name: "CONSULTORIO UTECO" },
       { name: "CPN SANCHEZ RAMIREZ" },
       { name: "DIRECCION DE AREA DE SALUD SÁNCHEZ RAMÍREZ" },
       { name: "DIRECCION PROVINCIA DE SALUD SANCHEZ RAMIREZ" },
@@ -828,8 +789,6 @@ const centros5 = [
       { name: "HOSPITAL INMACULADA CONCEPCION" },
       { name: "HOSPITAL MUNICIPAL FANTINO (SIGFREDO ALBA)" },
       { name: "HOSPITAL RAMÓN BÁEZ" },
-      { name: "HOSPITAL SIGIFREDO ALBA DOMINGUEZ" },
-      { name: "HOSPITAL VILLA LA MATA" },
       { name: "DIRECCION PROVINCIAL DE SALUD " },
       { name: "CENTRO MEDICO ODNONTOCLINIC" },
       { name: "CENTRO MEDICO ORAL IMPLANT RD" },
@@ -839,73 +798,27 @@ const centros5 = [
   {
     name: "San Francisco De Macoris",
     centers: [
-      { name: "Grupo Medico Unido Siglo 21" },
-      { name: "Centro Medico Materno Infantil del Nordeste" },
-      { name: "Centro Medico Nacional" },
-      { name: "Centro Medico de Especialidades Medicas (INEMED)" },
-      { name: "Fortaleza Duarte" },
-      { name: "Policia Nacional" },
-      { name: "Hospital Regional San Vicente de Paul" },
-      { name: "CIPLACI" },
-      { name: "Policia Nacional" },
       { name: "Centro del Jaya " },
-      { name: "Ruta CPN 1A" },
-      { name: "Ruta CPN 1B" },
-      { name: "Ruta CPN 1C" },
-      { name: "Ruta CPN 2A" },
-      { name: "Ruta CPN 2B" },
-      { name: "Ruta CPN 3" },
-      { name: "Ruta CPN 4" },
-      { name: "Ruta CPN 5" },
-      { name: "Ruta CPN 6" },
-      { name: "Ruta CPN 7" },
-      { name: "Ruta CPN 8" },
-      { name: "UCNE (Intrnos de Medicina)" },
-      { name: "Hogar Geriatrico Niña  Valerio " },
-      { name: "UASD (Internos de Medicina)" },
-      { name: "Centro Medico Dr. Ovalle " },
-      { name: "Centro Medico Dr. Nuñez " },
-      { name: "Clinica Dra. Flabia Sanchez (SAREI)" },
-      { name: "Clinica Dr. Sarante " },
-      { name: "Dr. Reynoso " },
-      { name: "Dr. Goris Abreu " },
-      { name: "Cardio Renal " },
-      { name: "Cruz Roja  Dominicana " },
-      { name: "Centro Israel Garcia" },
-      { name: "CEDINEFROT " },
-      { name: "Incardio " },
-      { name: "Fundacion de Cardiologia " },
       { name: "Rehabilitacion " },
       { name: "Yun Peralta " },
-      { name: "Oncologico " },
       { name: "Serenidad " },
-      { name: "Centro Medico Dr. Ovalle " },
-      { name: "Grupo Medico Unido Siglo 21" },
       { name: "Club 27 de Febrero " },
-      { name: "Grupo Medico Unido Siglo 21" },
-      { name: "Centro Medico Dr. Ovalle " },
       { name: "Club de los Profesores" },
       { name: "Getsemani " },
       { name: "Club Olegario Tenares (Vista al Valle)" },
       { name: "Ciudad Ganadera" },
       { name: "Cancha San Martin" },
       { name: "Profamilia " },
-      { name: "UCNE (Intrnos de Medicina)" },
-      { name: "Grupo Medico Unido Siglo 21" },
       { name: "Centro Comunal Pablo VI" },
       { name: "DPS Duarte" },
       { name: "Casa Senatorial" },
       { name: "Club de Mayorista" },
       { name: "Centro Comunal San Juan Bautista" },
-      { name: "UCNE (Intrnos de Medicina)" },
       { name: "Club Cristo Rey " },
-      { name: "Grupo Medico Unido Siglo 21" },
-      { name: "Centro Medico Dr. Ovalle " },
       { name: "Capilla La Altagracia " },
       { name: "Los Espinolas " },
       { name: "Hermanas Mirabal " },
       { name: "Santa Ana " },
-      { name: "Fortaleza Duarte  (911)" },
       { name: "Regional de Salud" },
     ]
   },
@@ -918,7 +831,6 @@ const centros5 = [
   {
     name: "Arenoso",
     centers: [
-      { name: "Hospital Municipal Arenoso" },
       { name: "Multiuso Bajo Techo Arenoso" },
       { name: "Bajo Techo de Arenoso " },
       { name: "Multiuso Bajo Techo Arenoso" }
@@ -927,14 +839,12 @@ const centros5 = [
   {
     name: "Castillo",
     centers: [
-      { name: "Hospital Municipal Castillo" },
       { name: "Centro Comunal de Castillo" }
     ],
   },
   {
     name: "Cenovi",
     centers: [
-      { name: "Hospital Dr.  Mario Fernandez Mena" },
       { name: "Centro Comunal Salome Ureña (Cenovi)" }
     ],
   },
@@ -959,21 +869,18 @@ const centros5 = [
   {
     name: "Las Guaranas",
     centers: [
-      { name: "Hospital Municipal Ethailda Brito" },
       { name: "Club Blue" }
     ],
   },
   {
     name: "Pimentel",
     centers: [
-      { name: "Hospital Municipal Felipe J. Achecar" },
       { name: "Arena 57 " }
     ],
   },
   {
     name: "Villa Rivas",
     centers: [
-      { name: "Hospital Municipal Alicia Legendre" },
       { name: "Multiuso Bajo Techo Villa Rivas" },
       { name: "Bajo Techo Villa Riva" },
       { name: "Villa rivas ( Guaraguao)" }
@@ -1014,31 +921,18 @@ const centros5 = [
       { name: "MAJAGUA ADENTRO" },
       { name: "Iglesia Catolica Las Garitas" },
       { name: "Centro Comunal Los Corrales" },
-      { name: "Cruz Roja Dominicana" },
       { name: "Ayuntamiento Municipal" },
-      { name: "Hospital Dr. Alberto Gautreaux" }
     ],
   },
   {
     name: "Salcedo",
     centers: [
-      { name: "HOSPITAL DR. PASACASIO TORIBIO PIANTINI" },
-      { name: "CENTRO MEDICO MATERNO INFANTIL" },
-      { name: "CENTRO MEDICO Dr.GRULLON" },
-      { name: "HOSPITAL Dr.ROMAN BRACHEZ" },
-      { name: "CASA DE LOS JOVENES DE AYER" },
-      { name: "LOCAL DEL COLEGIO MEDICO PROVINCIAL" },
       { name: "UNAP ANA MERCEDES RODRIGUEZ" },
-      { name: "CASA DE LA TERCERA EDAD" }
     ],
   },
   {
     name: "Tenares",
     centers: [
-      { name: "HOSPITAL ANGEL CONCEPCION LAJARA" },
-      { name: "CENTRO MEDICO SAN RAFAEL" },
-      { name: "UNIVERSAL DE SALUD" },
-      { name: "CENTRO MEDICO DR. GUZMAN" },
       { name: "CENTRO DIAGNOSTICO TENARES" },
       { name: "POLIDEPORTIVO TENARES" },
       { name: "CENTRO COMUNITARIO PASO HONDO ADULTOS DE 70 AÑOS" },
@@ -1049,17 +943,12 @@ const centros5 = [
   {
     name: "Villa Tapia",
     centers: [
-      { name: "HOSPITAL MUNICIPAL VILLA TAPIA" },
       { name: "CENTRO DIAGNOSTICO " },
-      { name: "CENTRO MEDICO DE ESPECIALIDADES DE VILLA TAPIA (CEMEVIT)" },
-      { name: "HOGAR PADRE NOEL VILLA TAPIA" },
-      { name: "PUESTO MOVIL HOGAR DE ANCIANO PADRE NOEL" }
     ],
   },
   {
     name: "Tamayo",
     centers: [
-      { name: "HOSPITAL MUNICIPAL JULIA SANTANA" },
       { name: "AYUNTAMIENTO DE TAMAYO" },
       { name: "TECHADO DE TAMAYO" },
       { name: "MONSERRATE " }
@@ -1068,10 +957,7 @@ const centros5 = [
   {
     name: "Neyba",
     centers: [
-      { name: "HOSP. SAN BARTOLOME" },
       { name: "MULTIUSO NEYBA" },
-      { name: "HOGAR ALEGRIA" },
-      { name: "COLEGIO MEDICO (NEYBA)" },
       { name: "DPS BAHORUCO" },
       { name: "EL MANGUITO" }
     ],
@@ -1080,7 +966,6 @@ const centros5 = [
     name: "Los Rios",
     centers: [
       { name: "CLUB LAS VIÑAS" },
-      { name: "HOSP. MUNICIPAL LOS RIOS" }
     ],
   },
   {
@@ -1088,7 +973,6 @@ const centros5 = [
     centers: [
       { name: "ESC. LAS TEJAS" },
       { name: "CENTRO COMUNAL GALVAN" },
-      { name: "ESC. ADELCIDA PEÑA MENDEZ" }
     ],
   },
   {
@@ -1096,13 +980,6 @@ const centros5 = [
     centers: [
       { name: "TECHADO DE JARAGUA" },
       { name: "ESC. FE Y ALEGRIA" },
-      { name: "HOGAR DIA VILLA JARAGUA" }
-    ],
-  },
-  {
-    name: "Las Clavellinas",
-    centers: [
-      { name: "ESC. MAXIMO GOMEZ" }
     ],
   },
   {
@@ -1111,7 +988,6 @@ const centros5 = [
       { name: "Iglesia Resureccion y vida" },
       { name: "Iglesia Buenas Nuevas" },
       { name: "Iglesia de Dios Pentecostal M.I" },
-      { name: "Colegio Medico Dominicano" },
       { name: "CMD Filiar Barahona" }
     ],
   },
@@ -1194,8 +1070,6 @@ const centros5 = [
   {
     name: "Jimani",
     centers: [
-      { name: "Centro Diagnostico Jimani" },
-      { name: "Defensa Civil Jimani" },
       { name: "CPN Jimani Viejo" },
       { name: "CPN Jimani Pueblo" },
       { name: "CPN El Limon" },
@@ -1212,7 +1086,6 @@ const centros5 = [
       { name: "CPN San Jose" },
       { name: "CPN Las Mercedes" },
       { name: "CPN San Isidro" },
-      { name: "Hosp.  Munic. DR. Jose Perez" },
       { name: "CPN Placer Bonito" }
     ],
   },
@@ -1241,8 +1114,6 @@ const centros5 = [
     centers: [
       { name: "CPN Bartolome" },
       { name: "CPN Los Pinos Del Eden" },
-      { name: "Hosp. Munic. La Descubierta" },
-      { name: "CPN La Descubierta" }
     ],
   },
   {
@@ -1256,15 +1127,10 @@ const centros5 = [
   {
     name: "SAN PEDRO",
     centers: [
-      { name: "Salon de la cultura ayuntamiento municipal" },
       { name: "Gobernacion provincial" },
-      { name: "UCE" },
-      { name: "Local de los bomberos" },
-      { name: "Local de los Muelleros" },
       { name: "Capilla Sagrado Corazon de Jesus" },
       { name: "Iglesia Circulo de Oracion" },
       { name: "Club de Leones" },
-      { name: "Defensa Civil" },
       { name: "Club de Periodista" },
       { name: "Iglesia Enmanuel tercera" },
       { name: "Parroquia Nuestra Señora de los Angeles" },
@@ -1318,25 +1184,16 @@ const centros5 = [
       { name: "Fuerza Armada" },
       { name: "Gobernacion" },
       { name: "Hogar del Niño" },
-      { name: "Hospital Buen Samaritano" },
       { name: "Unap Caleta" },
       { name: "Hospital Aristides Fiallo Cabral" },
       { name: "Hospital Francisco A. Gonzalvo" },
       { name: "Unap Tomas desir" },
-      { name: "Hospital Central Romana" },
-      { name: "Hospital Materno Infantil Dr. Francisco A. Gonzalvo" },
-      { name: "Centro Medico Coral" },
-      { name: "Clínica Canela I" },
       { name: "Dispensario Médico Dr. Luis J. Suarez" },
-      { name: "Centro de Especialidades Médicas CEMER" },
-      { name: "Clínica Canela II" },
       { name: "Gerencia de Área" },
       { name: "Unap Los Bomberos" },
       { name: "Dispensario  Padre Cavaloto" },
       { name: "Centro Médico Dr. Rosario" },
-      { name: "911 -CRUE" },
       { name: "DPS -La Romana" },
-      { name: "Servicio Médico Diagnostico Manzano" },
       { name: "CESAC" },
       { name: "Multiuso Calasanz San Eduardo" },
       { name: "CEMER" },
@@ -1371,7 +1228,6 @@ const centros5 = [
   {
     name: "Guaymte",
     centers: [
-      { name: "Hospital Municipal Guaymate" },
       { name: "Guaymate" },
     ],
   },
@@ -1379,31 +1235,18 @@ const centros5 = [
     name: "HIGUEY",
     centers: [
       { name: "MULTIUSO #1" },
-      { name: "MULTIUSO #2" },
-      { name: "MULTIUSO #3" },
-      { name: "MULTIUSO #4" },
-      { name: "MULTIUSO #5" },
-      { name: "CLINICA DR. CEDANO" },
-      { name: "CLINICA DR. QUEVEDO" },
       { name: "POLIDEPORTIVO" },
-      { name: "HOGAR DE ANCIANOS" },
-      { name: "HOSP. LAGUNAS DE NISIBON" },
       { name: "UNAP LA OTRA BANDA" },
       { name: "UNAP SAN FRANCISCO" },
       { name: "UNAP MAMÁ TINGÓ" },
-      { name: "GRUPO MEDICO LIBERTAD" },
-      { name: "GRUPO MEDICO QUIRULGICO" },
-      { name: "HOSPITEN" },
       { name: "SERVICIO NACIONAL DE SALUD" },
       { name: "UNAP HATO DE MANA" },
       { name: "UNAP EL BONAO" },
-      { name: "CENTRO MEDICO PUNTA CANA" },
     ],
   },
   {
     name: "SAN RAFAEL DEL YUMA",
     centers: [
-      { name: "HOSP. DRA EVANGELINA RODRIGUEZ" },
       { name: "UNAP BAYAHIBE" },
       { name: "UNAP LOS NEGROS" },
     ],
@@ -1436,7 +1279,6 @@ const centros5 = [
   {
     name: "Sabana de la Mar",
     centers: [
-      { name: "Hospital Elupina Cordero" },
       { name: "Unap Magua" },
       { name: "Unap Las yaguita" },
       { name: "Unap Las Cañitas" },
@@ -1452,24 +1294,18 @@ const centros5 = [
   {
     name: "EL SEIBO",
     centers: [
-      { name: "CENTRO MEDICO DR. CHAIN" },
-      { name: "CENTRO MEDICO DEL ESTE" },
       { name: "DPS" },
       { name: "911" },
-      { name: "ASILO DE HIGUERRA" },
       { name: "COLEGIO EL ROSARIO" },
       { name: "CENTRO CAMPESINO" },
       { name: "CTC" },
       { name: "POLITECNICO FEZ Y ALEGRIA" },
       { name: "POLITECNICO SEGIO A BERA" },
-      { name: "DEFENSA CIVIL" },
       { name: "ESCUELA VILLA GUERRERO" },
       { name: "CASA CLUB GINANDIANA" },
       { name: "ESTANCIA DE ENVEGECIENTE" },
-      { name: "DISCAPACITADO" },
       { name: "CENTRO COMUNAL V.G." },
       { name: "VICENTILLO" },
-      { name: "BOMBERO" },
       { name: "CENTRO COM.VILA G." },
       { name: "PEDRO SANCHEZ" },
       { name: "LA HIGUERRA" },
@@ -1477,15 +1313,12 @@ const centros5 = [
       { name: "EL CERCADO" },
       { name: "EL CUEY" },
       { name: "CLUB DOMINO" },
-      { name: "HOSPITAL TEOFILO HDEZ" },
       { name: "CENTRO C.GINANDIAN" },
     ],
   },
   {
     name: "MICHES",
     centers: [
-      { name: "HOSPITAL , MUN.MICHES" },
-      { name: "DISTRITO EDUCATIVO" },
       { name: "CTC" },
       { name: "EL ASFALTO" },
       { name: "BOCA DEL RIO" },
@@ -1496,7 +1329,6 @@ const centros5 = [
   {
     name: "Pedernales",
     centers: [
-      { name: "Hospital Dr. Elio Fiallo" },
       { name: "CPN 3-4" },
       { name: "CPN 5-6" },
       { name: "CPN 7-8" },
@@ -1652,7 +1484,6 @@ const centros5 = [
       { name: "CPN LA SOLEDAD " },
       { name: "CPN LAS CANAS" },
       { name: "CPN LOS CASTELLANOS" },
-      { name: "CPN LOS COROZOS" },
       { name: "CPN VILLA LA MATA" },
       { name: "LOS COROZOS" },
     ],
