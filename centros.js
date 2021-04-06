@@ -1446,6 +1446,13 @@ const centros = [
       { name: "IGLESIA DE DIOS" },
       { name: "LOS MONTONES" },
       { name: "MULTIUSO" },
+      { name: "Salon de la cultura ayuntamiento municipal" },
+      { name: "Local de los bomberos" },
+      { name: "Local de los Muelleros" },
+      { name: "Liceo Gaston Fernando Deligne" },
+      { name: "Cancha Punta de Garza" },
+      { name: "Defensa Civil" },
+      { name: "Centro Comunal Punta Pescadora" },
     ],
   },
   {
