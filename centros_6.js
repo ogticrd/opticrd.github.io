@@ -239,9 +239,14 @@ const centros6 = [
     centers: [
       { name: "CENTRO MÉDICO DR.MATEO ROSARIO" },
       { name: "HOSPITAL MUNICIPAL DE DR. PEDRO HEREDIA ROJAS" },
-      { name: "HOSPITAL PROVINCIAL DE MONTE PLATE DR.ANGEL CONTRERAS" },
       { name: "DIRECCIÓN PROVINCIAL DE SALUD MONTE PLATA" },
       { name: "Multiusos Monte Plata (de 68 años o más)" },
+      { name: "Hospital Provincial Dr. Angel Contreras" },
+      { name: "CPNA Gregorio Luperón (Antiguo hospital)" },
+      { name: "DPS Monte Plata" },
+      { name: "Dispensario Parroquial San Antonio de Padua" },
+      { name: "Adultos mayores (convalecientes, casa a casa)" },
+      { name: "Liceo Julio Abreu Cuello" },
     ],
   },
   {
@@ -2177,6 +2182,32 @@ const centros6 = [
     centers: [
       { name: "Ayuntamiento Almácigos" },
       { name: "Escuela Dr. Carlos González" }
+    ]
+  },
+  {
+    name: "Yamasá",
+    centers: [
+      { name: "Hospital Municipal de Yamasa" },
+      { name: "Centro Medico Concepcion y Diaz" }
+    ]
+  },
+  {
+    name: "Sabana Grande de Boya",
+    centers: [
+      { name: "Hospita Dr. Pedro Heredia Rojas, Sabana Grande de Boya" },
+      { name: "Multiusos Sabana Grande de Boya (de 68 años o más)" }
+    ]
+  },
+  {
+    name: "Bayaguana",
+    centers: [
+      { name: "Hospital Santo Cristo de los Milagros" },
+    ]
+  },
+  {
+    name: "Peralvillo",
+    centers: [
+      { name: "Centro medico Humbeto Garcia" },
     ]
   }
 ].sort((a, b) => (a.name < b.name ? -1 : 1));
