@@ -55,4 +55,14 @@ const centros1 = [
       { name: "CPN DERRUMBADERO" },
     ],
   },
+  {
+    name: "DUARTE",
+    centers: [
+      { name: "Villa Rivas" },
+      { name: "Bomba de yaiba" },
+      { name: "Centro comunal Hoyo de jaya visitas a pacientes encamados" },
+      { name: "Capilla la Altagracia" },
+      { name: "Arena 57 Pimentel" },
+    ],
+  },
 ].sort((a, b) => (a.name < b.name ? -1 : 1));
