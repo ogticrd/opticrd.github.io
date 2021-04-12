@@ -1021,23 +1021,26 @@ const centros = [
   {
     name: "Jimani",
     centers: [
-      { name: "CPN Jimani Viejo" },
-      { name: "CPN Jimani Pueblo" },
-      { name: "CPN El Limon" },
-      { name: "CPN Boca De Cachon" },
-      { name: "CPN Tierra Nueva" }
+      { name: "CENTRO DIAGNOSTICO JIMANI" },
+      { name: "DEFENSA CIVIL JIMANI" },
+      { name: "CPN JIMANI VIEJO" },
+      { name: "CPN JIMANI PUEBLO" },
+      { name: "CPN EL LIMON" },
+      { name: "CPN BOCA DE CACHON" },
+      { name: "CPN TIERRA NUEVA" }
     ],
   },
   {
     name: "Duverge",
     centers: [
-      { name: "CPN Las Baitoas" },
-      { name: "CPN Vengan a Ver" },
-      { name: "CPN Puesto Escondido" },
-      { name: "CPN San Jose" },
-      { name: "CPN Las Mercedes" },
-      { name: "CPN San Isidro" },
-      { name: "CPN Placer Bonito" }
+      { name: "CPN LAS BAITOAS" },
+      { name: "CPN VENGAN A VER" },
+      { name: "CPN PUESTO ESCONDIDO" },
+      { name: "CPN SAN JOSE" },
+      { name: "CPN LAS MERCEDES" },
+      { name: "CPN SAN ISIDRO" },
+      { name: "HOSP.  MUNIC. DR. JOSE PEREZ" },
+      { name: "CPN PLACER BONITO" }
     ],
   },
   {
