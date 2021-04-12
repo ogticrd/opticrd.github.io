@@ -475,8 +475,6 @@ const centros = [
       { name: "CPN BATEY -8" },
       { name: "CPN BARTOLOME" },
       { name: "CPN LOS PINOS DEL EDEN" },
-      { name: "HOSP. MUNIC. LA DESCUBIERTA" },
-      { name: "CPN LA DESCUBIERTA" },
       { name: "CPN POSTRER RIO" },
       { name: "CPN EL GUAYABAL" },
       { name: "CPN LOS BOLOS" },
@@ -1067,6 +1065,8 @@ const centros = [
     centers: [
       { name: "CPN Bartolome" },
       { name: "CPN Los Pinos Del Eden" },
+      { name: "HOSP. MUNIC. LA DESCUBIERTA" },
+      { name: "CPN LA DESCUBIERTA" },
     ],
   },
   {
@@ -1532,6 +1532,8 @@ const centros = [
       { name: "LOCAL JUNTA DE VECINOS BARRIO LA TORRE LEBRON" },
       { name: "MULTIUSO PALMAREJO" },
       { name: "CPN CRISTO OBRERO" },
+      { name: "ESTANCIA DE DIA 24 DE ABRIL" },
+      { name: "HOSPITAL DR. RODOLFO DE LA CRUZ LORA" }
     ],
   },
   {
