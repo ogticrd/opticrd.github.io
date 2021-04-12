@@ -902,7 +902,8 @@ const centros = [
     centers: [
       { name: "AYUNTAMIENTO DE TAMAYO" },
       { name: "TECHADO DE TAMAYO" },
-      { name: "MONSERRATE" }
+      { name: "MONSERRATE" },
+      { name: "LICEO SEC. PROF. JUAN BOSCH" }
     ],
   },
   {
@@ -910,7 +911,9 @@ const centros = [
     centers: [
       { name: "MULTIUSO NEYBA" },
       { name: "DPS BAHORUCO" },
-      { name: "EL MANGUITO" }
+      { name: "EL MANGUITO" },
+      { name: "LICEO MANUEL DE JESUS GALVAN" },
+      { name: "DESTACAMENTO PN NEIBA" },
     ],
   },
   {
@@ -924,6 +927,7 @@ const centros = [
     centers: [
       { name: "ESC. LAS TEJAS" },
       { name: "CENTRO COMUNAL GALVAN" },
+      { name: "ESCUELA ULPINA GONZALEZ"}
     ],
   },
   {
@@ -931,6 +935,7 @@ const centros = [
     centers: [
       { name: "TECHADO DE JARAGUA" },
       { name: "ESC. FE Y ALEGRIA" },
+      { name: "ESCUELA MARIE POUSEPIN" },
     ],
   },
   {
