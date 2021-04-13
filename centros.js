@@ -49,6 +49,10 @@ const centros = [
       { name: "HOSPITAL MUNICIPAL JACINTO IGNACIO MAÑÓN" },
       { name: "HOSPITAL SALVADOR B. GAUTIER" },
       { name: "UNIVERSIDAD PEDRO HENRIQUEZ UREÑA (UNPHU)" },
+      { name: "CEDIMAT" },
+      { name: "PLAZA DE LA SALUD" },
+      { name: "SANTO SOCORRO" },
+      { name: "DIAGNOSTICA S.A. SUCURSAL NÚÑEZ DE CÁCERES" },
     ],
   },
   {
