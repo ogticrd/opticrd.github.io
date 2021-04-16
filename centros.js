@@ -38,6 +38,8 @@ const centros = [
       { name: "Pensionados" },
       { name: "INAVI" },
       { name: "SRS METROPOLITANA" },
+      { name: "Liceo Nuestra Sra del Carmen" },
+      { name: "CONAPE" },
     ],
   },
   {
@@ -2252,6 +2254,15 @@ const centros = [
       { name: "Centro Comunal el Cruce" },
       { name: "Casa de la Cultura" },
       { name: "Centro de Madre Luperón" },
+    ]
+  },
+  {
+    name: "PIANTINI",
+    centers:[
+      { name: "Plaza Lama" },
+      { name: "CCN" },
+      { name: "Agora Moll" },
+      { name: "MIDE" },
     ]
   },
 ].sort((a, b) => (a.name < b.name ? -1 : 1));
