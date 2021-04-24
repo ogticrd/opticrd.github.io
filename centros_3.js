@@ -506,7 +506,7 @@ const centros3 = [
       { name: "FORTALEZA SAN LUIS" },
       { name: "CENTRO MEDICO CIBAO" },
       { name: "DOMICILIO" },
-      { name: "CLUB HERMNOS PATIÑO" }
+      { name: "CLUB HERMNOS PATIÑO" },
       { name: "FORTALEZA FERNANDO VALERIO" },
     ],
   },
