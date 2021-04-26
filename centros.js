@@ -2117,4 +2117,37 @@ const centros = [
       { name: "MIDE" },
     ]
   },
+  {
+    name:"ENSANCHE LUPERÓN",
+    centers:[
+      {name: "HOSPITAL DOCENTE DR. FCO. MOSCOSO PUELLO"},
+      {name: "CENTRO DIAGNÓSTICO BARNEY MORGAN"},
+      {name: "OFICINA DAS-IV"},
+    ]
+  },
+  {
+    name: "CRISTO REY",
+    centers:[
+      {name: "CLÍNICA CRUZ JIMINIÁN"},
+      {name: "CPN PUERTO ISABELA"},
+    ]
+  },
+  {
+    name: "MEJORAMIENTO SOCIAL",
+    centers:[
+      {name: "CECANOT"},
+    ]
+  },
+  {
+    name : "VILLA CONSUELO",
+    centers:[
+      {name: "HOSPITAL DR. FÉLIX MARÍA GOICO"},
+    ]
+  },
+  {
+    name: "VILLA JUANA",
+    centers:[
+      {name: "CLUB MAURICIO BÁEZ"},
+    ]
+  },
 ].sort((a, b) => (a.name < b.name ? -1 : 1));
