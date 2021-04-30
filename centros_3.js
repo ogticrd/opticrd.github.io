@@ -151,7 +151,7 @@ const centros3 = [
     centers: [
       { name: "UNIVERSIDAD PEDRO HENRÍQUEZ UREÑA(UNPHU)"},
       { name: "HOSPITAL SANTO SOCORRO"},
-      { name: "CARREFOUR"},
+      { name: "PLAZA DUARTE-CARREFOUR"},
       { name: "HOSPITAL GENERAL PLAZA DE LA SALUD"},
       { name: "CEDIMAT"},
       { name: "CENTRO MEDICO VISTA DEL JARDIN"},
