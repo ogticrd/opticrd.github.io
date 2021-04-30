@@ -117,7 +117,10 @@ const centros3 = [
   {
     name: "DISTRITO NACIONAL( DAS-VI)",
     centers: [
-      { name: "CARREFOUR"},
+      { name: "UNIVERSIDAD PEDRO HENRÍQUEZ UREÑA(UNPHU)"},
+      { name: "HOSPITAL SANTO SOCORRO"},
+      { name: "PLAZA DUARTE-CARREFOUR"},
+      { name: "HOSPITAL GENERAL PLAZA DE LA SALUD"},
       { name: "CEDIMAT"},
       { name: "CPN CARMEN RENATA (LA ISABELA)"},
       { name: "DOGEPI"},
