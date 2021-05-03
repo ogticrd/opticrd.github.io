@@ -36,7 +36,6 @@ const centros3 = [
       { name: "CPN LA ISABELITA" },
       { name: "CPN LOS MAMEYES" },
       { name: "HOSP DR DARIO CONTRERAS" },
-      { name: "CLUB LOS TRINITARIOS" },
       { name: "HOGAR DE ANCIANO MADRE AMADORA" },
       { name: "HOGAR DE ANCIANOS PADRE BILLINI" },
     ],
