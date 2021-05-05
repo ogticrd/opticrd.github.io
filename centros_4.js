@@ -89,7 +89,7 @@ const centros = [
       { name: 'MOVEARTE' },
       { name: 'CENTRO DE PRIMER NIVEL SAN CARLOS' },
       { name: 'INSTITUTO DE AUXILIOS Y VIVIENDAS (INAVI)' },
-      { name: 'CNP VILLA FRANCISCA' },
+      { name: 'CENTRO DE PRIMER NIVEL VILLA FRANCISCA' },
       { name: 'CENTRO MEDIDO FUSADI' },
       { name: 'HOSPITAL MATERNO INFANTIL SANTO SOCORRO' },
       { name: 'PLAZA DUARTE (CARREFOUR)' },
