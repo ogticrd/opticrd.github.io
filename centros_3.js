@@ -491,7 +491,7 @@ const centros3 = [
       { name: "CPN EL HIGUERO" },
       { name: "CPN PONTON" },
       { name: "CUB DE ABOGADOS" },
-      { name: "DEFENSA CIVIÑ" },
+      { name: "DEFENSA CIVIL" },
       { name: "LOS BOMBEROS" },
       { name: "COOPERATIVA VEGA REAL" },
       { name: "HOSPITAL JIMA ABAJO" },
