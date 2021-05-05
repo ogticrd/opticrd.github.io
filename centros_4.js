@@ -581,7 +581,7 @@ const centros = [
       { name: 'CENTRO DE PRIMER NIVEL VILLA PROGRESO' },
       { name: 'CENTRO DE PRIMER NIVEL ZAFARRAYA' },
       { name: 'DISTRITO 06-01 JOSE CONTRERAS' },
-      { name: 'CENTRO DE PRIMER NIVEL  LOS  BRAZOS' },
+      { name: 'CENTRO DE PRIMER NIVEL LOS BRAZOS' },
       { name: 'CENTRO DE PRIMER NIVEL LOS PUENTES ' },
       { name: 'HOSPITAL JOSÉ CONTRERAS' },
       { name: 'ESCUELA LOS RINCONES ' },
