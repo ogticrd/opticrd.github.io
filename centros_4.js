@@ -366,7 +366,6 @@ const centros = [
       { name: "IGLESIA ADVENTISTA" },
       { name: "LICEO ANA MERCEDES BALBUENA MATANZA" },
       { name: "LICEO EUGENIO DE JESUS MARCANO (TAMBORIL)" },
-      { name: "UNIÓN MEDICA" },
       { name: "PALACIO DE JUSTICIA" },
       { name: "PARQUE CENTRAL" },
       { name: "PARQUE DE VILLA GONZALEZ" },
