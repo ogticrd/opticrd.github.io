@@ -36,7 +36,6 @@ const centros = [
   {
     name: "DISTRITO NACIONAL",
     centers: [
-      { name: "AGORA MALL" },
       { name: "AGRUCUDEGUA" },
       { name: "SUPERMERCADO NACIONAL 27 DE FEBRERO (PARQUEO)" },
       { name: "CENTRO DE PRIMER NIVEL SAN CARLOS" },
@@ -51,9 +50,7 @@ const centros = [
       { name: "HONDURAS" },
       { name: "HOSPITAL MATERNO INFANTIL SANTO SOCORRO" },
       { name: "MERCASID" },
-      { name: "MULTICENTRO LA SIRENA (WINSTON CHEURCHILL)" },
       { name: "PLAZA DUARTE (CARREFOUR)" },
-      { name: "PLAZA LAMA (27 DE FEBRERO)" },
       { name: "UNIVERSIDAD NACIONAL PEDRO HENRIQUEZ UREÑA (UNPHU)" },
       { name: "HOSPITAL JACINTO MAÑON " },
     ],
