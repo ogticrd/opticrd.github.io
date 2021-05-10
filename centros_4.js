@@ -302,7 +302,8 @@ const centros = [
       { name: "TECHADO LOS CIRUELITOS " },
       { name: "TIPIQUITO LOS COCOS " },
       { name: "UASD BARRANQUITA" },
-      { name: "UNIVERSIDAD NAPOLEON NUNEZ MOLINA (LICEY)" },
+      { name: "UNIVERSIDAD NAPOLEON NUNEZ MOLINA (LICEY)"},
+      { name: "INTELLISYS D. CORP."},
     ],
   },
   {
