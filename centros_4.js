@@ -16,7 +16,8 @@ const centros = [
       { name: "JUMBO MEGACENTRO" },
       { name: "MULTIUSO DE INVIVIENDA" },
       { name: "MULTIUSO TAMARINDO" },
-      { name: "PARRROQUIA SANTO TOMAS VILLA NUEVA" }
+      { name: "PARRROQUIA SANTO TOMAS VILLA NUEVA" },
+      { name: "HOSPITAL ELVIRA ECHAVARIA" }
     ],
   },
   {
@@ -853,10 +854,6 @@ const centros = [
       { name: "GACEBO DEL PARQUE MONTE ADENTRO" },
       { name: "HOSPITAL BOCA CHICA" }
     ]
-  },
-  {
-    name: "SAN ANTONIO DE GUERRA",
-    centers: [{ name: "HOSPITAL ELVIRA ECHAVARIA" }]
   },
 ];
 
