@@ -303,49 +303,6 @@ const centros = [
     ],
   },
   {
-    name: "MONTE CRISTI",
-    centers: [
-      { name: "AYUNTAMIENTO DE CANA CHAPETON" },
-      { name: "CENTRO COMUNAL LOMA DE CASTAÑUELAS" },
-      { name: "CENTRO DE PRIMER NIVEL SANTA BARBARA" },
-      { name: "CLUB CULTURAL HATILLO PALMA" },
-      { name: "CLUB DEPORTIVO Y CULTURAL SAN PEDRO" },
-      { name: "CLUB JUAN PABLO DUARTE" },
-      { name: "IGLESIA KM. 14" },
-      { name: "POLIDEPOIRTIVO DE GUAYUBIN" },
-      { name: "POLIDEPORTIVO DE CASTAÑUELAS" },
-      { name: "POLIDEPORTIVO DE LAS MATAS" },
-      { name: "POLIDEPORTIVO DE MANZANILLO" },
-      { name: "RESTAURANTE LILO" },
-      { name: "UNAP ALTO DE LA PALOMA" },
-      { name: "UNAP BARRIO SUR" },
-      { name: "UNAP BATEY MADRE" },
-      { name: "UNAP CERRO GORDO" },
-      { name: "UNAP COPEY DE GUAYUBIN" },
-      { name: "UNAP COPEY PEPILLO SALCEDO" },
-      { name: "UNAP DERRAMADEROS" },
-      { name: "UNAP EL AHOGADO" },
-      { name: "UNAP EL CENTRO" },
-      { name: "UNAP EL POCITO DE GUAYUBIN" },
-      { name: "UNAP EL VIGIADOR" },
-      { name: "UNAP HATILLO PALMA" },
-      { name: "UNAP HERMANAS MIRABAL" },
-      { name: "UNAP LA CAPITALITA" },
-      { name: "UNAP LA GALLERA" },
-      { name: "UNAP LAS FLORES" },
-      { name: "UNAP LAS MATAS" },
-      { name: "UNAP LOS CONUCOS (VV)" },
-      { name: "UNAP LOS CONUCOS MC" },
-      { name: "UNAP MARTIN GARCIA" },
-      { name: "UNAP PILOTO" },
-      { name: "UNAP SANTA CRUZ" },
-      { name: "UNAP SANTA MARIA" },
-      { name: "UNAP VILLA ELISA" },
-      { name: "UNAP VILLA SINDA" },
-      { name: "IGLESIA KM 13" },
-    ],
-  },
-  {
     name: "SANTIAGO RODRIGUEZ",
     centers: [
       { name: "AYUNTAMIENTO MUNICIPAL DE VILLA LOS ALMACIGOS" },
@@ -889,7 +846,7 @@ const centros = [
   },
   {
     name: "BOCA CHICA",
-    center: [
+    centers: [
       { name: "CLUB UNION " },
       { name: "CODECOD (CENTRO DE DESAROLLO)" },
       { name: "CRUZ ROJA DOMINICANA FILIAR LA CALETA " },
@@ -899,7 +856,7 @@ const centros = [
   },
   {
     name: "SAN ANTONIO DE GUERRA",
-    center: [{ name: "HOSPITAL ELVIRA ECHAVARIA" }]
+    centers: [{ name: "HOSPITAL ELVIRA ECHAVARIA" }]
   },
 ];
 
