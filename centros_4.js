@@ -1,7 +1,7 @@
 const centros = [
   {
     name: "AZUA",
-    centerss: [
+    centers: [
       { name: "CENTRO COMUNAL DE TABARA ARRIBA" },
       { name: "CENTRO DE ATENCION A CLIENTES CLARO" },
       { name: "CENTRO DE DIAGNOSTICO AZUA" },
@@ -64,7 +64,7 @@ const centros = [
   },
   {
     name: "BAHORUCO",
-    centerss: [
+    centers: [
       { name: "AYUNTAMIENTO DE TAMAYO" },
       { name: "CENTRO COMUNAL GALVAN" },
       { name: "CLUB LAS VIÑAS EN LOS RÍOS" },
@@ -94,7 +94,7 @@ const centros = [
   },
   {
     name: "BARAHONA",
-    centerss: [
+    centers: [
       { name: "AYUNTAMIENTO DE ENRIQUILLO" },
       { name: "AYUNTAMIENTO DE PARAISO" },
       { name: "AYUNTAMIENTO MUNICIPAL    " },
@@ -164,7 +164,7 @@ const centros = [
   },
   {
     name: "DAJABÓN",
-    centerss: [
+    centers: [
       { name: "ASILO DE ANCIANOS DAJABÓN" },
       { name: "CANCHA CLUB CULTURAL LIBERACIÓN JUVENIL" },
       { name: "CASA DE LA CULTURA" },
@@ -193,7 +193,7 @@ const centros = [
   },
   {
     name: "DISTRITO NACIONAL",
-    centerss: [
+    centers: [
       { name: "ALBERGUE OLÍMPICO DOMINICANO" },
       { name: "ASILO LA BENDICION DE DIOS" },
       { name: "CARREFOUR PLAZA DUARTE" },
@@ -357,7 +357,7 @@ const centros = [
   },
   {
     name: "DUARTE",
-    centerss: [
+    centers: [
       { name: "CANCHA SAN MARTIN " },
       { name: "CAPILLA LA ALTAGRACIA" },
       { name: "CATEDRAL SANTA ANA - JUAN XXIII" },
@@ -394,7 +394,7 @@ const centros = [
   },
   {
     name: "EL SEIBO",
-    centerss: [
+    centers: [
       { name: "AYUNTAMIENTO MUNICIPAL" },
       { name: "CASA CLUB DE GINANDIANA" },
       { name: "CENTRO CAMPESINO" },
@@ -407,7 +407,7 @@ const centros = [
   },
   {
     name: "ELÍAS PIÑA",
-    centerss: [
+    centers: [
       { name: "CENTRO DE COMBATE" },
       { name: "CENTRO DE PRIMER NIVEL HATO VIEJO" },
       { name: "CENTRO DE PRIMER NIVEL LA GALLERA" },
@@ -446,7 +446,7 @@ const centros = [
   },
   {
     name: "ESPAILLAT",
-    centerss: [
+    centers: [
       { name: "CANCHA MUNICIPAL " },
       { name: "CAPILLA SAN MIGUEL (LA ROSA)" },
       { name: "CENTRO PARROQUIAL IGLESIA GH" },
@@ -509,7 +509,7 @@ const centros = [
   },
   {
     name: "HATO MAYOR",
-    centerss: [
+    centers: [
       { name: "HOGAS DE ANCIANOS DOÑA ROMELIA SALAS DE BARCELO" },
       { name: "HOSPITAL EL VALLE" },
       { name: "HOSPITAL SEÑORA ELUPINA CORDERO" },
@@ -541,7 +541,7 @@ const centros = [
   },
   {
     name: "HERMANAS MIRABAL",
-    centerss: [
+    centers: [
       { name: "ASOCIACION MEDICA" },
       { name: "CASA DE LA TERCERA EDAD" },
       { name: "CASA DE LOS JOVENES DE AYER" },
@@ -558,7 +558,7 @@ const centros = [
   },
   {
     name: "INDEPENDENCIA",
-    centerss: [
+    centers: [
       { name: "CENTRO DE PRIMER NIVEL BATEY 8" },
       { name: "CENTRO DE PRIMER NIVEL BOCA DE CACHON" },
       { name: "CENTRO DE PRIMER NIVEL COLONIA MIXTA" },
