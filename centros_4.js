@@ -1,7 +1,7 @@
 const centros = [
   {
     name: "AZUA",
-    centers: [
+    centerss: [
       { name: "CENTRO COMUNAL DE TABARA ARRIBA" },
       { name: "CENTRO DE ATENCION A CLIENTES CLARO" },
       { name: "CENTRO DE DIAGNOSTICO AZUA" },
@@ -64,7 +64,7 @@ const centros = [
   },
   {
     name: "BAHORUCO",
-    centers: [
+    centerss: [
       { name: "AYUNTAMIENTO DE TAMAYO" },
       { name: "CENTRO COMUNAL GALVAN" },
       { name: "CLUB LAS VIÑAS EN LOS RÍOS" },
@@ -94,7 +94,7 @@ const centros = [
   },
   {
     name: "BARAHONA",
-    centers: [
+    centerss: [
       { name: "AYUNTAMIENTO DE ENRIQUILLO" },
       { name: "AYUNTAMIENTO DE PARAISO" },
       { name: "AYUNTAMIENTO MUNICIPAL    " },
@@ -164,7 +164,7 @@ const centros = [
   },
   {
     name: "DAJABÓN",
-    centers: [
+    centerss: [
       { name: "ASILO DE ANCIANOS DAJABÓN" },
       { name: "CANCHA CLUB CULTURAL LIBERACIÓN JUVENIL" },
       { name: "CASA DE LA CULTURA" },
@@ -193,7 +193,7 @@ const centros = [
   },
   {
     name: "DISTRITO NACIONAL",
-    centers: [
+    centerss: [
       { name: "ALBERGUE OLÍMPICO DOMINICANO" },
       { name: "ASILO LA BENDICION DE DIOS" },
       { name: "CARREFOUR PLAZA DUARTE" },
@@ -357,7 +357,7 @@ const centros = [
   },
   {
     name: "DUARTE",
-    centers: [
+    centerss: [
       { name: "CANCHA SAN MARTIN " },
       { name: "CAPILLA LA ALTAGRACIA" },
       { name: "CATEDRAL SANTA ANA - JUAN XXIII" },
@@ -394,7 +394,7 @@ const centros = [
   },
   {
     name: "EL SEIBO",
-    centers: [
+    centerss: [
       { name: "AYUNTAMIENTO MUNICIPAL" },
       { name: "CASA CLUB DE GINANDIANA" },
       { name: "CENTRO CAMPESINO" },
@@ -407,7 +407,7 @@ const centros = [
   },
   {
     name: "ELÍAS PIÑA",
-    centers: [
+    centerss: [
       { name: "CENTRO DE COMBATE" },
       { name: "CENTRO DE PRIMER NIVEL HATO VIEJO" },
       { name: "CENTRO DE PRIMER NIVEL LA GALLERA" },
@@ -446,7 +446,7 @@ const centros = [
   },
   {
     name: "ESPAILLAT",
-    centers: [
+    centerss: [
       { name: "CANCHA MUNICIPAL " },
       { name: "CAPILLA SAN MIGUEL (LA ROSA)" },
       { name: "CENTRO PARROQUIAL IGLESIA GH" },
@@ -509,7 +509,7 @@ const centros = [
   },
   {
     name: "HATO MAYOR",
-    centers: [
+    centerss: [
       { name: "HOGAS DE ANCIANOS DOÑA ROMELIA SALAS DE BARCELO" },
       { name: "HOSPITAL EL VALLE" },
       { name: "HOSPITAL SEÑORA ELUPINA CORDERO" },
@@ -541,7 +541,7 @@ const centros = [
   },
   {
     name: "HERMANAS MIRABAL",
-    centers: [
+    centerss: [
       { name: "ASOCIACION MEDICA" },
       { name: "CASA DE LA TERCERA EDAD" },
       { name: "CASA DE LOS JOVENES DE AYER" },
@@ -558,7 +558,7 @@ const centros = [
   },
   {
     name: "INDEPENDENCIA",
-    centers: [
+    centerss: [
       { name: "CENTRO DE PRIMER NIVEL BATEY 8" },
       { name: "CENTRO DE PRIMER NIVEL BOCA DE CACHON" },
       { name: "CENTRO DE PRIMER NIVEL COLONIA MIXTA" },
@@ -595,7 +595,7 @@ const centros = [
   },
   {
     name: "LA ALTAGRACIA",
-    "center": [
+    "centers": [
       { name: "AEROPUERTO PUNTA CANA" },
       { name: "HOSPITAL DR. EVANGELINA RODRIGUEZ" },
       { name: "HOTEL LOPESAN COSTA BAVARO" },
@@ -610,7 +610,7 @@ const centros = [
   },
   {
     name: "LA ROMANA",
-    "center": [
+    "centers": [
       { name: "CENTRO DIAGNOSTICO CALETA" },
       { name: "DIRECCION PROVINCIAL DE SALUD DE LA ROMANA" },
       { name: "ECOLAB ZONA  FRANCA  2" },
@@ -637,7 +637,7 @@ const centros = [
   },
   {
     name: "LA VEGA",
-    "center": [
+    "centers": [
       { name: "CENTRO DE DIAGNOSTICO" },
       { name: "CENTRO DE PRIMER NIVEL BAYACANES" },
       { name: "CENTRO DE PRIMER NIVEL BURENDE" },
@@ -660,7 +660,7 @@ const centros = [
   },
   {
     name: "MARIA TRINIDAD SÁNCHEZ",
-    "center": [
+    "centers": [
       { name: "AYUNTAMIENTO DEL POZO" },
       { name: "CASA DE FORMACION SAGRADA FAMILIA" },
       { name: "CENTRO COMUNITARIO MATA BONITA" },
@@ -687,7 +687,7 @@ const centros = [
   },
   {
     name: "MONSEÑOR NOUEL",
-    "center": [
+    "centers": [
       { name: "CLINICA POLICLINICO BONAO" },
       { name: "CLUB LOS AMAPOLOS" },
       { name: "FALCONDO" },
@@ -706,7 +706,7 @@ const centros = [
   },
   {
     name: "MONTE CRISTI",
-    "center": [
+    "centers": [
       { name: "CENTRO COMUNAL LOMA" },
       { name: "CLUB HATILLO PALMA" },
       { name: "CLUB JUAN PABLO" },
@@ -740,7 +740,7 @@ const centros = [
   },
   {
     name: "MONTE PLATA",
-    "center": [
+    "centers": [
       { name: "CENTRO DE PRIMER NIVEL 5 CASAS" },
       { name: "CENTRO DE PRIMER NIVEL CHACARO" },
       { name: "CENTRO DE PRIMER NIVEL HATO VIEJO" },
@@ -753,7 +753,7 @@ const centros = [
   },
   {
     name: "PEDERNALES",
-    "center": [
+    "centers": [
       { name: "UNIDAD DE ATENCION PRIMARIA  5 Y 6" },
       { name: "UNIDAD DE ATENCION PRIMARIA  9" },
       { name: "UNIDAD DE ATENCION PRIMARIA 3 Y 4" },
@@ -762,7 +762,7 @@ const centros = [
   },
   {
     name: "PERAVIA",
-    "center": [
+    "centers": [
       { name: "CENTRO DE PRIMER NIVEL BOCA CANASTA" },
       { name: "CAÑAFISTOL ABAJO" },
       { name: "CENTRO COMUNAL VILLA MAJEGA" },
@@ -797,7 +797,7 @@ const centros = [
   },
   {
     name: "PUERTO PLATA",
-    "center": [
+    "centers": [
       { name: "AYUNTAMIENTO DE SOSUA" },
       { name: "CENTRO DE PRIMER NIVEL DOLORES DE LA CRUZ" },
       { name: "CENTRO DE PRIMER NIVEL NAVAS" },
@@ -817,7 +817,7 @@ const centros = [
   },
   {
     name: "SAMANÁ",
-    "center": [
+    "centers": [
       { name: "AYUNTAMIENTO MUNICIPAL" },
       { name: "CENTRO COMUNAL (LOS CORRALES)" },
       { name: "CENTRO COMUNAL (NARANJIITO)" },
@@ -843,7 +843,7 @@ const centros = [
   },
   {
     name: "SAN CRISTÓBAL",
-    "center": [
+    "centers": [
       { name: "ASOCIACION DE INDUSTRIA" },
       { name: "CENTRO DIAGNOSTICO VILLA FUNDACION" },
       { name: "COLEGIO SAN RAFAEL" },
@@ -869,7 +869,7 @@ const centros = [
   },
   {
     name: "SAN JOSÉ DE OCOA",
-    "center": [
+    "centers": [
       { name: "CENTRO DE DIAGNÓSTICO BELLA VISTA" },
       { name: "CENTRO DE SALUD  ARROYO CANA" },
       { name: "CENTRO DE SALUD  LA CIENEGA" },
@@ -888,7 +888,7 @@ const centros = [
   },
   {
     name: "SAN JUAN",
-    "center": [
+    "centers": [
       { name: "CLUB COME MORO" },
       { name: "CODIA" },
       { name: "EL CASINO SJ" },
@@ -912,7 +912,7 @@ const centros = [
   },
   {
     name: "SAN PEDRO DE MACORÍS",
-    "center": [
+    "centers": [
       { name: "CAPILLA SAGRADO CORAZON DE JESUS" },
       { name: "CLINICA DOCTOR DE LEON" },
       { name: "CLUB 26 DE FEBRERO" },
@@ -934,7 +934,7 @@ const centros = [
   },
   {
     name: "SÁNCHEZ RAMIREZ",
-    "center": [
+    "centers": [
       { name: "AYUNTAMIENTO DE QUITA SUEÑO" },
       { name: "BAJO TECHO" },
       { name: "CASA DEL ESPIRITU SANTO" },
@@ -979,7 +979,7 @@ const centros = [
   },
   {
     name: "SANTIAGO",
-    "center": [
+    "centers": [
       { name: "ACERO ESTRELLA Y BOTICA" },
       { name: "CIENFUEGOS (BAJO TECHO)" },
       { name: "CLÍNICA UNIÓN MÉDICA DEL NORTE" },
@@ -999,7 +999,7 @@ const centros = [
   },
   {
     name: "SANTIAGO RODRÍGUEZ",
-    "center": [
+    "centers": [
       { name: "AYUNTAMIENTO MUNICIPAL MONCIÓN" },
       { name: "ESCUELA ANA JOAQUIN HIDALGO" },
       { name: "LOS BOMBEROS" }
@@ -1007,7 +1007,7 @@ const centros = [
   },
   {
     name: "SANTO DOMINGO",
-    "center": [
+    "centers": [
       { name: "CLUB RECREATIVO CULTURAL UNION " },
       { name: "GACEBO DEL PARQUE MONTE ADENTRO" },
       { name: "HOSPITAL MUNICIPIAL DE BOCA CHICA" },
@@ -1096,9 +1096,9 @@ const centros = [
       { name: "HOSPITAL MUNICIPAL ALCARRIZOS II" }
     ]
   },
-   {
+  {
     name: "VALVERDE",
-    "center": [
+    "centers": [
       { name: "CLINICA MONTESINO" },
       { name: "CLUB DE LEONES" },
       { name: "CLUB DEL CERRO DE ESPERANZA" },
