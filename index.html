@@ -23,9 +23,19 @@
             <img class="img-fluid" src="logo-vacunateRD.png" />
           </div>
           <h4 class="h4 header-title">
-            ¡A partir de hoy todos podemos vacunarnos con primeras y segundas dosis!
+            ¡A partir de hoy todos podemos vacunarnos con primeras y segundas
+            dosis!
           </h4>
           <p>Ahora nos toca a todos, ¡vacúnate!</p>
+          <p>Mira todos los que existen hasta el momento</p>
+          <div class="mybutton">
+            <a
+              type="button"
+              href="https://www.google.com/maps/d/u/0/viewer?mid=1Fb7LlK3WqGsu2l8HmHrLSg0pD4J9ICdv"
+              class="btn btn-danger btn-lg"
+              >Ver Mapa</a
+            >
+          </div>
         </div>
       </div>
       <div class="content">
@@ -34,13 +44,8 @@
             <div class="col-sm-8">
               <h3 class="text-center">Puntos de vacunación</h3>
             </div>
-            <div class="mybutton">
-              <a
-                type="button"
-                href="https://www.google.com/maps/d/u/0/viewer?mid=1Fb7LlK3WqGsu2l8HmHrLSg0pD4J9ICdv"
-                class="btn btn-danger"
-                >Ver Mapa</a
-              >
+            <div class="col-sm-4">
+              <h4 class="text-center">¡Búsca el más cercano!</h4>
             </div>
           </div>
 
@@ -55,7 +60,8 @@
                     v-model="provinceSelected"
                     id="province-selected"
                     class="form-control"
-                    @change="provinceChange"git 
+                    @change="provinceChange"
+                    git
                   >
                     <option
                       v-for="province in provinces"
