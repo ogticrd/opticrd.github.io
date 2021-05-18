@@ -844,5 +844,7 @@ const centros = [
       { name: "CLUB ROTARIO" }, 
       { name: "COLEGIO MEDICO" }, 
       { name: "PARROQUIA MARÍA AUXILIADORA MAO" }, 
-      { name: "UNIDAD DE ATENCION PRIMARIA CENTRO" }] }
+      { name: "UNIDAD DE ATENCION PRIMARIA CENTRO LAGUNA SALADA" }
+    ] 
+  }
 ].sort((a, b) => (a.name < b.name ? -1 : 1));
